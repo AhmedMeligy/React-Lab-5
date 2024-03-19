@@ -1,50 +1,13 @@
 {
   "products": [
     {
-      "id": "1",
-      "title": "iPhone 9",
-      "description": "An apple mobile which is nothing like apple",
-      "price": 549,
-      "discountPercentage": 12.96,
-      "rating": 4.69,
-      "stock": 94,
-      "brand": "Apple",
-      "category": "smartphones",
-      "thumbnail": "https://cdn.dummyjson.com/product-images/1/thumbnail.jpg",
-      "images": [
-        "https://cdn.dummyjson.com/product-images/1/1.jpg",
-        "https://cdn.dummyjson.com/product-images/1/2.jpg",
-        "https://cdn.dummyjson.com/product-images/1/3.jpg",
-        "https://cdn.dummyjson.com/product-images/1/4.jpg",
-        "https://cdn.dummyjson.com/product-images/1/thumbnail.jpg"
-      ]
-    },
-    {
-      "id": "2",
-      "title": "iPhone X",
-      "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
-      "price": 899,
-      "discountPercentage": 17.94,
-      "rating": 4.44,
-      "stock": 34,
-      "brand": "Apple",
-      "category": "smartphones",
-      "thumbnail": "https://cdn.dummyjson.com/product-images/2/thumbnail.jpg",
-      "images": [
-        "https://cdn.dummyjson.com/product-images/2/1.jpg",
-        "https://cdn.dummyjson.com/product-images/2/2.jpg",
-        "https://cdn.dummyjson.com/product-images/2/3.jpg",
-        "https://cdn.dummyjson.com/product-images/2/thumbnail.jpg"
-      ]
-    },
-    {
       "id": "3",
       "title": "Samsung Universe 9",
       "description": "Samsung's new variant which goes beyond Galaxy to the Universe",
-      "price": 1249,
+      "price": "124",
       "discountPercentage": 15.46,
       "rating": 4.09,
-      "stock": 36,
+      "stock": "363",
       "brand": "Samsung",
       "category": "smartphones",
       "thumbnail": "https://cdn.dummyjson.com/product-images/3/thumbnail.jpg",
@@ -56,7 +19,7 @@
       "id": "4",
       "title": "OPPOF19",
       "description": "OPPO F19 is officially announced on April 2021.",
-      "price": 280,
+      "price": "280099999",
       "discountPercentage": 17.91,
       "rating": 4.3,
       "stock": 123,
@@ -125,25 +88,6 @@
       ]
     },
     {
-      "id": "8",
-      "title": "Microsoft Surface Laptop 4",
-      "description": "Style and speed. Stand out on HD video calls backed by Studio Mics. Capture ideas on the vibrant touchscreen.",
-      "price": 1499,
-      "discountPercentage": 10.23,
-      "rating": 4.43,
-      "stock": 68,
-      "brand": "Microsoft Surface",
-      "category": "laptops",
-      "thumbnail": "https://cdn.dummyjson.com/product-images/8/thumbnail.jpg",
-      "images": [
-        "https://cdn.dummyjson.com/product-images/8/1.jpg",
-        "https://cdn.dummyjson.com/product-images/8/2.jpg",
-        "https://cdn.dummyjson.com/product-images/8/3.jpg",
-        "https://cdn.dummyjson.com/product-images/8/4.jpg",
-        "https://cdn.dummyjson.com/product-images/8/thumbnail.jpg"
-      ]
-    },
-    {
       "id": "9",
       "title": "Infinix INBOOK",
       "description": "Infinix Inbook X1 Ci3 10th 8GB 256GB 14 Win10 Grey – 1 Year Warranty",
@@ -160,24 +104,6 @@
         "https://cdn.dummyjson.com/product-images/9/3.png",
         "https://cdn.dummyjson.com/product-images/9/4.jpg",
         "https://cdn.dummyjson.com/product-images/9/thumbnail.jpg"
-      ]
-    },
-    {
-      "id": "10",
-      "title": "HP Pavilion 15-DK1056WM",
-      "description": "HP Pavilion 15-DK1056WM Gaming Laptop 10th Gen Core i5, 8GB, 256GB SSD, GTX 1650 4GB, Windows 10",
-      "price": 1099,
-      "discountPercentage": 6.18,
-      "rating": 4.43,
-      "stock": 89,
-      "brand": "HP Pavilion",
-      "category": "laptops",
-      "thumbnail": "https://cdn.dummyjson.com/product-images/10/thumbnail.jpeg",
-      "images": [
-        "https://cdn.dummyjson.com/product-images/10/1.jpg",
-        "https://cdn.dummyjson.com/product-images/10/2.jpg",
-        "https://cdn.dummyjson.com/product-images/10/3.jpg",
-        "https://cdn.dummyjson.com/product-images/10/thumbnail.jpeg"
       ]
     },
     {
@@ -535,77 +461,10 @@
       ]
     },
     {
-      "id": "30",
-      "title": "Key Holder",
-      "description": "Attractive DesignMetallic materialFour key hooksReliable & DurablePremium Quality",
-      "price": 30,
-      "discountPercentage": 2.92,
-      "rating": 4.92,
-      "stock": 54,
-      "brand": "Golden",
-      "category": "home-decoration",
-      "thumbnail": "https://cdn.dummyjson.com/product-images/30/thumbnail.jpg",
-      "images": [
-        "https://cdn.dummyjson.com/product-images/30/1.jpg",
-        "https://cdn.dummyjson.com/product-images/30/2.jpg",
-        "https://cdn.dummyjson.com/product-images/30/3.jpg",
-        "https://cdn.dummyjson.com/product-images/30/thumbnail.jpg"
-      ]
-    },
-    {
-      "id": "e21e",
-      "name": "sdgsdg",
-      "price": "34",
-      "quantity": "535",
-      "imgUrl": "https://source.unsplash.com/random"
-    },
-    {
-      "id": "75c1",
-      "name": "dfgdfg",
-      "price": "23",
-      "quantity": "555",
-      "imgUrl": "https://source.unsplash.com/random"
-    },
-    {
-      "id": "9e41",
-      "title": "",
-      "price": "34",
-      "stock": 0,
-      "images": "https://source.unsplash.com/random",
-      "name": "ssdgsdg",
-      "imgUrl": "https://source.unsplash.com/random",
-      "quantity": "34"
-    },
-    {
-      "id": "ee5c",
-      "title": "gssdgsdg",
-      "price": "45",
-      "stock": 0,
-      "images": "https://source.unsplash.com/random",
-      "imgUrl": "https://source.unsplash.com/random",
-      "quantity": "45"
-    },
-    {
-      "id": "c7e4",
-      "title": "sdgsdg",
-      "price": "34",
-      "stock": 0,
-      "images": "https://source.unsplash.com/random",
-      "thumbnail": "https://source.unsplash.com/random",
-      "quantity": "34"
-    },
-    {
       "id": "db33",
       "title": "test1",
       "price": "12",
       "stock": "43",
-      "thumbnail": "https://source.unsplash.com/random"
-    },
-    {
-      "id": "4407",
-      "title": "test222",
-      "price": "222",
-      "stock": "222",
       "thumbnail": "https://source.unsplash.com/random"
     }
   ],
